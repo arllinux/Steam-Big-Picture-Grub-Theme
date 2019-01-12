@@ -1,3 +1,6 @@
+# Note : Ce dếpot a été forké ici puis transféré sur https://git.espritslibres.fr/sloteur/mint pour continuer le travail.
+
+
 # Steam Big Picture: Grub theme
 
 ### Latest Screenshot
